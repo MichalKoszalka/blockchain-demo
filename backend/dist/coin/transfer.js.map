@@ -1,0 +1,1 @@
+{"version":3,"file":"transfer.js","sourceRoot":"","sources":["../../src/coin/transfer.ts"],"names":[],"mappings":";;AAAA,MAAa,QAAQ;IAKjB,YAAY,IAAY,EAAE,EAAU,EAAE,KAAa;QAC/C,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;QACb,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACvB,CAAC;CAEJ;AAXD,4BAWC"}
